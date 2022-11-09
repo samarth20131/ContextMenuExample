@@ -12,7 +12,7 @@ import com.example.contextmenuexample.databinding.ContentMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var listView: ListView
-    private val contact = arrayOf("Akash","Vikash","John","Rahul","Ajay")
+    private val contact = arrayOf("Samarth","Devansh","Abhi","Nirnay","Jaineel")
     private lateinit var binding : ContentMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
